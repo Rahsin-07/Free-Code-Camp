@@ -1,4 +1,4 @@
-{ "homepage": "https://github.com/Rahsin-07/Random-Joke-generator.git",
+{ 
   "name": "randomquote",
   "version": "0.1.0",
   "private": true,
